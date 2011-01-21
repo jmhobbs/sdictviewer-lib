@@ -4,6 +4,11 @@ This is a trimmed down version of sdictviewer to be used as a library.  I've mad
 
 <http://sdictviewer.sourceforge.net/>
 
+# Installation
+
+    git clone git://github.com/jmhobbs/sdictviewer-lib.git
+    python setup.py install
+
 # Usage
 
 	import sys
